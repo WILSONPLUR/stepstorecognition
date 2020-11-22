@@ -1,0 +1,36 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    object-fit: cover;
+    background-position: center;
+    background: url('../images/main_background.jpg');
+    filter: drop-shadow(7px 5px 6px black);
+    height: 100%;
+    background-repeat: no-repeat;
+}
+
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-container .main_background {
+    padding-top: 170px;
+}
+
+
+.main_text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text {
+    font-weight: 200;
+    font-size: 38px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+

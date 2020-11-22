@@ -1,0 +1,26 @@
+.text-bio {
+    margin-top: 50px;
+}
+
+.text-paragraph {
+   line-height: 30px;
+   margin-top: 40px;
+}
+
+.mark_img {
+    height: 300px;
+}
+
+.mark {
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.program {
+    margin-top: 50px;
+}
+
+.program-text {
+    width: 100%;
+}

@@ -1,0 +1,70 @@
+.text-bio {
+    margin-top: 50px;
+}
+.text-bio .text-left {
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+.text-paragraph {
+   line-height: 30px;
+   margin-top: 40px;
+}
+
+.mark_img {
+    height: 300px;
+}
+
+.mark {
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.program {
+    margin-top: 50px;
+}
+
+.subtitle {
+    font-style: italic;
+    font-size: 21px;
+}
+
+.program-text {
+    width: 100%;
+}
+
+.photo_signature {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.flex-photos {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-text {
+    display: flex;
+    flex-direction: row;
+}
+
+.btn {
+    margin: 0 auto;
+}
+
+.bio-btn {
+    margin-top: 30px;
+}
+
+.container .btn-outline-primary {
+    margin-bottom: 30px;
+}
+
+.video-player {
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
